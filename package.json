@@ -1,0 +1,25 @@
+{
+  "name": "gameoflife.github.io",
+  "version": "1.0.0",
+  "description": "Game of Life FCC project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotjz/gameoflife.github.io.git"
+  },
+  "author": "Elliot Zoerner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliotjz/gameoflife.github.io/issues"
+  },
+  "homepage": "https://github.com/elliotjz/gameoflife.github.io#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
